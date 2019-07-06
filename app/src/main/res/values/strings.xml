@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="clear">Clear All Notes</string>
+    <string name="no_notes">no notes found</string>
+    <string name="rusure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title">title</string>
+    <string name="content">content</string>
+</resources>
